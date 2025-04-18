@@ -1,0 +1,3 @@
+C:/Users/Acer/Desktop/game maze/cmake-build-debug/CMakeFiles/game_maze.dir
+C:/Users/Acer/Desktop/game maze/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acer/Desktop/game maze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
